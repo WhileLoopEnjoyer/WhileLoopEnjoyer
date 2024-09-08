@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying M.Sc. Bioinformatics at Saarland University <br>Currently working on a project "Predictive controller for optimal PV power battery storage use"<br>Trying to learn German and SQL<br>
+Studying M.Sc. Bioinformatics at Saarland University <br>Currently working on a project "Smart Controller for Optimal PV Power and Battery Usage"<br>Trying to learn German and SQL<br>
 
 
 ## 🌐 Socials:
