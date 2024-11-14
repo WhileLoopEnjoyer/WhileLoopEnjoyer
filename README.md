@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Studying M.Sc. Bioinformatics at Saarland University <br>Currently working on the project "Smart Controller for Optimal PV Power and Battery Usage"<br>Trying to learn German and SQL<br>
 
 
